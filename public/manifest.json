@@ -1,0 +1,15 @@
+{
+  "short_name": "Lowe's Kids Workshop",
+  "name": "Lowe's Kids Workshop 2025",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#317EFB",
+  "background_color": "#ffffff"
+}
