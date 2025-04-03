@@ -28,7 +28,9 @@ Other Tools: Redux, React Router
 
 Author
 
-Name: Your A/C NameEmail: Your A/C EmailWebsite: Lowe’s Kids Workshop 2025
+Name: Doren
+Email: doren765muze@outlook.com
+Website: [Lowe's kids workshop 2025](https://www.loweskidsworkshop.com)
 
 Getting Started
 
